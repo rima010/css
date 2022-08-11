@@ -1,0 +1,32 @@
+@font-face {
+    font-family: roboto;
+    src: url(fonts);
+}
+li {
+    display: inline-block;
+    width: 100px;
+    background-color:#deeaee;
+}
+h1 {
+    color: cornflowerblue;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
+li > a {
+    font-family: 'Roboto', sans-serif;
+}
+.contact {
+    border: 5px solid rgba(188, 143, 143, 0.842);
+    inline-size: 600px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+#w {
+    color:#eea29a ;
+    font-size: 40px;
+}
