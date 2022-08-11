@@ -19,14 +19,20 @@ li > a {
 }
 .contact {
     border: 5px solid rgba(188, 143, 143, 0.842);
-    inline-size: 600px;
+    inline-size: 1000px;
     border-radius: 10px;
     background-color: aliceblue;
     padding-bottom: 10px;
-    padding-left: 10px;
+    padding-left: 100px;
     margin-bottom: 20px;
+    margin-left: 50px;
 }
-#w {
+#w h1{
     color:#eea29a ;
     font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#w {
+    margin-left: 500px;
 }
